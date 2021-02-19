@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlutoMenu", "PlutoMenu\PlutoMenu.csproj", "{51CBD0AF-5E25-47E6-9929-3B8866003EB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CBD0AF-5E25-47E6-9929-3B8866003EB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CBD0AF-5E25-47E6-9929-3B8866003EB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CBD0AF-5E25-47E6-9929-3B8866003EB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CBD0AF-5E25-47E6-9929-3B8866003EB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8686C2DA-BD73-4B6B-929C-F17E93EE034E}
+	EndGlobalSection
+EndGlobal
